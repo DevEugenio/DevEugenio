@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá Meu Nome è Geovane Eugenio 👋
 
 # Biográfia 
 
@@ -9,5 +9,7 @@
 # Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveugenio&repo=DevEugeniogit.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+# Contatos
 
 <a href="https://www.linkedin.com/in/geovane-eugenio-345b98246" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
